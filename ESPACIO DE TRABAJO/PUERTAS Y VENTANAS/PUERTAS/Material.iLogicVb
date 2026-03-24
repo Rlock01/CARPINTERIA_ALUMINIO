@@ -1,0 +1,5 @@
+﻿'MATERIAL
+Parameter("PAÑO 958x663 mm:1", "Material_Plancha") = Material
+
+iLogicVb.UpdateWhenDone = True
+InventorVb.DocumentUpdate()
