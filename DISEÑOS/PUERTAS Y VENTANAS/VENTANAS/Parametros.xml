@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParamWithValueList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <version>20080502</version>
+  <parameterTypes>
+    <ParamType>
+      <typeName>Inventor</typeName>
+      <typeCode>0</typeCode>
+    </ParamType>
+    <ParamType>
+      <typeName>String</typeName>
+      <typeCode>1</typeCode>
+    </ParamType>
+    <ParamType>
+      <typeName>Boolean</typeName>
+      <typeCode>2</typeCode>
+    </ParamType>
+  </parameterTypes>
+  <parameters>
+    <ParamWithValue>
+      <name>Material</name>
+      <typeCode>String</typeCode>
+      <value>Cristal Transparente</value>
+      <comment />
+      <isKey>false</isKey>
+      <multiValues>
+        <string>Cristal Transparente</string>
+        <string>Cristal Transparente Duplex</string>
+        <string>Cristal Espejo Plateado</string>
+        <string>Cristal Nevado Claro</string>
+        <string>Cristal Nevado Oscuro</string>
+        <string>Cristal Para Sol Bronce</string>
+        <string>Melamina Blanca</string>
+        <string>Melamina Carmelita</string>
+      </multiValues>
+    </ParamWithValue>
+  </parameters>
+</ParamWithValueList>
